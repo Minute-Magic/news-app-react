@@ -2,6 +2,10 @@
 
 This is a simple React application built with Vite that fetches news data from the NewsAPI. It allows users to browse through the latest news articles and read their summaries.
 
+![image](https://github.com/ImeshaDilshani/news-app-react/assets/93858302/c11cbb0f-19e6-4f3e-8539-61f47214467b)
+
+![image](https://github.com/ImeshaDilshani/news-app-react/assets/93858302/2979ce8c-4480-4890-aac4-7a48f72b6cbc)
+
 ## Features
 
 - Fetches news articles from the NewsAPI
